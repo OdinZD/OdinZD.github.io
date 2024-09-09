@@ -6,6 +6,8 @@ title: "Example Site"
 
 # Introduction
 
+# Introduction
+
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
